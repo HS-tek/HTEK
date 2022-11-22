@@ -79,10 +79,10 @@ function LandingPage() {
                     Looking for interesting and innovative projects in
                   </h3>
                   <p>
-                    Devops [Front-end | Network]
+                    Devops [Front-end | Flutter | React | Network]
                   </p>
                   <p>
-                    Cloud [Solutions Architect]
+                    Cloud [Solutions Architect, ec2, S3, data analysis]
                   </p>
                 </Col>
               </Row>
