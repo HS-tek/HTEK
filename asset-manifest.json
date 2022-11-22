@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4ba47e77.css",
-    "main.js": "/static/js/main.2211dc53.js",
+    "main.js": "/static/js/main.de1da44c.js",
     "static/media/adn_code.gif": "/static/media/adn_code.ada88c0c06ab2a6cdd02.gif",
     "static/media/bg_black-white.jpg": "/static/media/bg_black-white.ffb83708efb40401b6ef.jpg",
     "static/media/BCP_cloud.gif": "/static/media/BCP_cloud.03cb809cb78a5950bd77.gif",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.4ba47e77.css",
-    "static/js/main.2211dc53.js"
+    "static/js/main.de1da44c.js"
   ]
 }
