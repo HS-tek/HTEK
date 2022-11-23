@@ -8,7 +8,6 @@ import React from "react";
 import IndexNavbar from "components/Navbars/IndexNavbar.js";
 import IndexHeader from "components/Headers/IndexHeader.js";
 
-// sections for this page
 import LandingPage from "./index-sections/LandingPage.js";
 import ProfilePage from "./examples/ProfilePage.js";
 
